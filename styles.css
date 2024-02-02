@@ -41,9 +41,9 @@ body {
   background-color: rgb(255, 227, 168);
 }
 
-header {
+/* header {
 
-}
+} */
 
 header .navBar{
   padding-top: 2rem;
@@ -52,7 +52,6 @@ header .navBar{
   padding-right: 5rem;
   justify-content: space-between;
 }
-
 header .navBar ul{
   display: flex;
   gap: 3rem;
